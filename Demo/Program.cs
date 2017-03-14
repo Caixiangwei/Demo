@@ -14,7 +14,6 @@ namespace Demo
             Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine("What?");
             Console.Write("尼玛");
-            Console.Write("呵呵");
             Console.Write("哈哈");
             Console.WriteLine("Demo");
             Console.ReadLine();
