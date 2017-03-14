@@ -11,7 +11,8 @@ namespace Demo
         static void Main(string[] args)
         {
             Console.WriteLine("What?");
-            Console.ReadLine();
+            Console.Write("尼玛");
+            Console.Write("呵呵");
             Console.WriteLine("Demo");
             Console.ReadLine();
         }
