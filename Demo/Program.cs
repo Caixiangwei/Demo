@@ -10,9 +10,8 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine("What?");
+            Console.ReadLine();
             Console.WriteLine("Demo");
             Console.ReadLine();
         }
