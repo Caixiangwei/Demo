@@ -10,6 +10,8 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine("What?");
             Console.Write("尼玛");
             Console.Write("呵呵");
